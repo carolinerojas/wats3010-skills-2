@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "1-viewport-meta-tag-experiment"
+		},
+		{
+			"path": "2-variables-in-css"
+		},
+		{
+			"path": "3-media-queries"
+		},
+		{
+			"path": "4-tabular-data"
+		},
+		{
+			"path": "5-flexbox-layout"
+		},
+		{
+			"path": "6-grid-layout"
+		},
+		{
+			"path": "7-google-fonts-and-fontawesome-fixed-position"
+		},
+		{
+			"path": "8-target-pseudo-selector-hamburger-navigation"
+		},
+		{
+			"path": "9-masonry-column-layout"
+		},
+		{
+			"path": "10-media-sharing"
+		},
+		{
+			"path": "11-fixed-position"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "1-viewport-meta-tag-experiment"
+	}
+}
