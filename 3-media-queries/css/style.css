@@ -24,11 +24,12 @@
         body {
           background-color: lightblue;
         }
-      }
+      
       li {
         width: 19%;
         display: inline-block;
       }
+    }
       :root {
         --odd-color: #d46843;
         --odd-bg-color:#2A150D;
